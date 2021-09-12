@@ -18,3 +18,4 @@ El codigo evaluara la base de datos de un sistema obteniendo su informacion sql,
 Pregunta porque los commits aparecen como si jose los hiciera
 #Ya pudimos resolver el tema con git config --global user.email "gibertc.m@gmail.com"
 
+En este commit se puede observar el ingreso a git a travez de SSH
