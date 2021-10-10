@@ -1,0 +1,3 @@
+Este archivo representa los cambios hechos en bug-fix trabajo con ramas
+
+Cambiando archivos para ver el estatus
