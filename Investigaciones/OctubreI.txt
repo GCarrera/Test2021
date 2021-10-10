@@ -1,0 +1,42 @@
+#ARQUITECTURA DEL COMPUTADOR
+
+Los 5 componentes basicos que todo computo debe tener son
+Procesador
+Memoria Ram
+Disco Duro
+Dispositivos de I/O
+Sofware
+
+QUE SON LOS TRANSISTORES 
+NANO SEGUNDO
+QUE SON LOS MHZ MEGAHERZIOS
+
+
+
+Nivel de Componente. Los elementos de este nivel son difusiones de impurezas tipo P y de tipo N en silicio, polisilicio cristalino y difusiones de metal que sirven para construir los transistores.
+
+2.      Nivel Electrónico. Los componentes son transistores, resistencias, condensadores y diodos construidos con las difusiones del nivel anterior. Esta tecnología de muy alta escala de integración o VLSI es la que se utiliza en la fabricación de circuitos integrados. En este nivel se construyen las puertas lógicas a partir de transistores.
+
+3.      Nivel Digital. Se describe mediante unos y ceros son las puertas lógicas, biestables y otros módulos tanto combinacionales como secuenciales. Este nivel es la aplicación del algebra booleana y las propiedades de la lógica digital.
+
+4.      Nivel RTL. El nivel de transferencia de registros RTL será el preferido para la descripción de los computadores. Elementos típicos en este nivel de abstracción son los registros y módulos combinacionales aritméticos.
+
+5.      Nivel PMS. Este nivel es el más alto de la jerarquía. Las siglas PMS provienen del ingles Processor Memory Switch. Con elementos de jerarquía los buses, memorias, procesadores y otros módulos de alto nivel.
+
+Como siquiera funciona esto?
+
+
+VON NEUMAN 
+-teoría de conjuntos
+-undamentos matemáticos de la mecánica cuántica
+-Teoría de Juegos
+-teorema del minimax
+-Mathematische Annalen,
+-álgebras auto-adjuntas de operadores lineales acotados sobre un espacio de Hilbert.
+-propuso la adopción del bit como medida de la memoria de los ordenadores, y resolvió el problema de la obtención de respuestas fiables con componentes no fiables (bit de paridad).
+
+https://sites.google.com/site/computadorasarquitectura/home/unidad1
+
+
+Institute for Advanced Study
+Que tipo de investigaciones se realizan alli
