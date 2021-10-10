@@ -24,3 +24,19 @@ Nivel de Componente. Los elementos de este nivel son difusiones de impurezas tip
 5.      Nivel PMS. Este nivel es el más alto de la jerarquía. Las siglas PMS provienen del ingles Processor Memory Switch. Con elementos de jerarquía los buses, memorias, procesadores y otros módulos de alto nivel.
 
 Como siquiera funciona esto?
+
+
+VON NEUMAN 
+-teoría de conjuntos
+-undamentos matemáticos de la mecánica cuántica
+-Teoría de Juegos
+-teorema del minimax
+-Mathematische Annalen,
+-álgebras auto-adjuntas de operadores lineales acotados sobre un espacio de Hilbert.
+-propuso la adopción del bit como medida de la memoria de los ordenadores, y resolvió el problema de la obtención de respuestas fiables con componentes no fiables (bit de paridad).
+
+https://sites.google.com/site/computadorasarquitectura/home/unidad1
+
+
+Institute for Advanced Study
+Que tipo de investigaciones se realizan alli
